@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Professional Polish palette: hijau, putih, hitam, abu-abu -->
+    <color name="brand_primary">#14532D</color>
+    <color name="brand_primary_dark">#0D3B20</color>
+    <color name="brand_accent">#2E7D46</color>
+
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_alt">#F3F4F3</color>
+    <color name="background">#F7F8F7</color>
+
+    <color name="text_primary">#111111</color>
+    <color name="text_secondary">#5B6560</color>
+    <color name="divider">#DCDFDC</color>
+
+    <color name="bubble_mine">#E4F0E7</color>
+    <color name="bubble_mine_text">#111111</color>
+    <color name="bubble_friend">#FFFFFF</color>
+    <color name="bubble_friend_text">#111111</color>
+
+    <color name="danger">#B3261E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="gray_100">#F3F4F3</color>
+    <color name="gray_300">#DCDFDC</color>
+    <color name="gray_500">#8A928D</color>
+    <color name="gray_700">#4B534E</color>
+</resources>
