@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Badge lonjong (pill/stadium): radius sengaja dibikin sangat besar supaya ujungnya
+     selalu melengkung penuh mengikuti tinggi badge, bukan sekadar kotak dibulatin dikit. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/brand_accent" />
+    <corners android:radius="100dp" />
+</shape>
